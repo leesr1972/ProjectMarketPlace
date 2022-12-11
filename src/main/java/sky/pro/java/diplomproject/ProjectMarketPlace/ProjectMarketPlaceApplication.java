@@ -1,0 +1,13 @@
+package sky.pro.java.diplomproject.ProjectMarketPlace;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjectMarketPlaceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ProjectMarketPlaceApplication.class, args);
+    }
+
+}
